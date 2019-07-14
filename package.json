@@ -1,0 +1,21 @@
+{
+  "name": "ts-discord-bot-template",
+  "version": "1.0.0",
+  "description": "A Discord bot template using discord.js, discord.js-commando, and TypeScript. Supports auto-compilation.",
+  "main": "dist/index.js",
+  "scripts": {
+    "debug": "nodemon -e js,ts --watch src --exec \"npm run build:ts && npm run start:app\"",
+    "build:ts": "tsc",
+    "start:app": "node dist/index.js"
+  },
+  "author": "abyssal512",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^11.5.1",
+    "discord.js-commando": "^0.10.0",
+    "sqlite": "^3.0.3"
+  },
+  "devDependencies": {
+    "@types/node": "^12.6.2"
+  }
+}
