@@ -1,6 +1,6 @@
 import { CommandoClient, Command, CommandMessage } from "discord.js-commando";
 
-module.exports = class UserNotifications extends Command {
+module.exports = class InfoCommand extends Command {
     constructor(bot: CommandoClient) {
         super(bot, {
             name: 'info',
