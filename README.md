@@ -22,4 +22,5 @@ Feel free to change the scripts inside `package.json` should you need to change 
 
 
 ### Copyright
-Copyright (c) 2019 abyssal512 under the MIT License.
+Derivative works, including forks, bots, applications, and services, are not subject to any license, restrictions, requirements or specifications. A license is not needed, but a credit might be nice ;)
+Otherwise, this repository and assets are copyright (c) 2020 Abyssal under the MIT License.
