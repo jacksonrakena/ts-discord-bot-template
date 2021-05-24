@@ -1,9 +1,9 @@
 # TypeScript Discord Bot Template
-A Discord bot template using discord.js, discord.js-commando, and TypeScript. Supports auto-compilation.
+A Discord bot template using discord.js, Commando, Prisma, and TypeScript. Supports auto-compilation.
 
 ### Features
 - Automatic compilation and restarting with Nodemon. When edits are saved, Nodemon will automatically recompile your code and restart your bot.
-- SQLite database functionality included, with `discord.js-commando`.
+- Full Postgres/SQLite/MSSQL support with the Prisma database library.
 - A good start for new TypeScript developers, or those needing a quick boilerplate for a speedy deployment.
 
 ### Setup
@@ -22,6 +22,8 @@ Feel free to change the scripts inside `package.json` should you need to change 
 
 
 ### Copyright
+**Authorization of Derivative Works**  
 Derivative works, including forks, bots, applications, and services, are **not** subject to any license, restrictions, requirements or specifications. A license is not needed, but a credit might be nice ;)  
   
+**Original Assets Protection**  
 Otherwise, this repository and assets are copyright &copy; 2018-2021 Abyssal under the MIT License.
