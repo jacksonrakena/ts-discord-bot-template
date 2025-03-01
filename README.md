@@ -24,6 +24,3 @@ Feel free to change the scripts inside `package.json` should you need to change 
 ### Copyright
 **Authorization of Derivative Works**  
 Derivative works, including forks, bots, applications, and services, are **not** subject to any license, restrictions, requirements or specifications. A license is not needed, but a credit might be nice ;)  
-  
-**Protection of Original Assets**  
-Otherwise, this repository and assets are copyright &copy; 2018-2021 Abyssal under the MIT License.
